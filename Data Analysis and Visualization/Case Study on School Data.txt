@@ -1,0 +1,5 @@
+1. Display all details of middle_tn_schools.
+2. Count number of rows and columns.
+3. Visulize all possible charts on given data set.
+4. Describe relationship between school_rating and reduced_lunch.
+5. Perform grouping based on school_rating and perform aggregation on reduced_lunch.
